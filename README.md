@@ -1,0 +1,2 @@
+# areaoptimasi
+belajar optimasi
